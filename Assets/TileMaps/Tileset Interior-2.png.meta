@@ -1,0 +1,5627 @@
+fileFormatVersion: 2
+guid: 75fce7906f983314783d11d83cf7b3f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset Interior-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a419e407a39afc40ad6c9595353d6ba
+      internalID: 1543983459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31576bb642153242a93e00ceb8cd581
+      internalID: -1131801819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9444c14607f945bc614a667d2bff0
+      internalID: 1449242434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e45f17ddbe77448690b0e47d3f9c1
+      internalID: -1664716242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514bf84215eee74e80f60555b556712
+      internalID: -764010563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd700b2aa4ce414bb060844b01d9350
+      internalID: -718442782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69672713a71252c4c997826db39d30c9
+      internalID: -1049062317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9bead172c58f54293feb4bbce1e1b5
+      internalID: -1257352176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f32a0849e3e7b449102ab02051e707
+      internalID: 690132590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75a4489acc0844a9497c1adfef9239
+      internalID: 570265640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d430aaf3d1e4c45a853a0d8c695431
+      internalID: 628104967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cb505f87024f249bd71faf1bb44ff7
+      internalID: -229106700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3f031578a25d49bc4cb8828f8972d
+      internalID: -1355922196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b32b491bc58594b84fa7e58a84c97f
+      internalID: -211419363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab72097749038343979178a9805adb1
+      internalID: 180090832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6b271e06418084e9832742b491b6f4
+      internalID: -1191731780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc66afce8d1d04887d5756fc1760eb
+      internalID: 1651649989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498496ea1648f3428e291c5864d642e
+      internalID: -990842252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2b168be0eb9a741acd0af38709c6a4
+      internalID: -2064981046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c3d1dd21f4d84f9856058f9503bec
+      internalID: 188002840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02dd8ce89a424488d76b97d1fe7acf
+      internalID: 888419176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d9f5c2535ca2498e167be91171065
+      internalID: -1898757388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991ce985ec2c27478f847cc6f37143c
+      internalID: 1158123088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6d1bb0ca84b84db5fa419189ad32a
+      internalID: 862483088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22414dbf7b1a41c49aff72e377ff4d89
+      internalID: -1845376009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc55032af47b946b4755f98f7a6c42
+      internalID: 131712191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d71b439dd02024e8726fec22f37720
+      internalID: 1594299982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230e6acdd1bd1f41a9c631cde9a89b5
+      internalID: -1867067206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c799691234e0a6d4c94dae26d27dc227
+      internalID: 6649086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc63925e99a56ea439837c3fe9cef61e
+      internalID: -611443596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd5e1cf1d93694fae213cdf89bdc87
+      internalID: -1832545410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 483.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e03fc154a282428409c2502a6dbfc
+      internalID: 2126868619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c904cfa9408bd43be5c5c557547829
+      internalID: 1326484523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93425481670bf324bac666b1a28e3b49
+      internalID: -1556603386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4679103a2e034ba9d2d62e540d113
+      internalID: 1352811986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120024722c506404f98e7a06ea82fa3e
+      internalID: 349339042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d527aff526d6a1418949976f4512fec
+      internalID: 590682601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd9d10723e44942bb4f21311078bf0
+      internalID: 318758972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557ab489d1448542a81f6fbd2fe3c07
+      internalID: 831823761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ee19f23bb7194fabc45766cfc4646
+      internalID: -781935588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78631f02574254f46a67eea891fc04e4
+      internalID: 1485355817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f784b45991d4e46838a2f4b4b31efc
+      internalID: -1793606137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1ee71b09c4f949a792daa4870c484
+      internalID: -452527376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa855617419644479d83eb1c1b8143e
+      internalID: 965988613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 467.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0454122b88d5e47923e8c824a49d96
+      internalID: 330607025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f7151f01e1e84fa3ab56ed3b14fd5
+      internalID: 1056251876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb2a0ad252edb4bbea9088559dcbf9
+      internalID: 776544523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a74ab8a91454d4c920e8d56b81cd22
+      internalID: 1328892365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ed8fce9e150a4dba2cd112e573824
+      internalID: -57833500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171b312e27d866408f65adaee37293e
+      internalID: -1674359300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2562dd25b91846bd49a85473dd337
+      internalID: -2100687513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d048ad07bb04c0c4ab174ac78dde608c
+      internalID: 1504619592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b52d300871ed37468d8f787628a5208
+      internalID: -984293071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959e49e1c3aa1644be37c614ce5f6ad
+      internalID: 1522979856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcbb6a4d8561254ca75182bc0bc998b
+      internalID: 385623393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66916eab3ad69df438b2ac4deb2c7fef
+      internalID: 483230364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e2b6d9c33c034898df22bb4165cff
+      internalID: 1674243877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 451.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0485ff4966b5040a86eb04c86235dc
+      internalID: -1790684991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe3a7929683d634ba1c94037ff832c6
+      internalID: 1533942534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c2818f8681d0499b6606a26900e37
+      internalID: -380720441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f377af1476ea48968a93cee97bcb4
+      internalID: 619341776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b9d81e4cf2124f8f491fb5dc87c12
+      internalID: 1617477630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3497e6b233c8419b854088923be5d
+      internalID: 1937663103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350bb3e1d19f2494c8200d78cc4010bb
+      internalID: -517494374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c74e485ec6d0428ab6b1adf264b3f
+      internalID: -159046776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ecb0237b65be4a8b9fc9c56950303
+      internalID: -139668442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535bf225739a0864bb86f28d4eab53d9
+      internalID: 2119063573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd26184b803874f8616c4c4fdc6957
+      internalID: -1996767069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 435.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd366104e2098d478651c7cdb371214
+      internalID: -1894513817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc0b708dfd37740960c7d3ca485634
+      internalID: 1132910442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339b03f321888854fbd1d67cc8ef7d69
+      internalID: 1526990826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53901efbc94b09546a55c8dc63d7cc10
+      internalID: 929287573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952c7bc8d03103d44901dbd189e6a664
+      internalID: 1164021588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721d7de4eb07a0745a0ac29404c010f4
+      internalID: 1707501972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6b2950290d284eaa5b6b1fa579b89
+      internalID: -2025792791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da40a3dc2a67cf4eb50bfa6b4583690
+      internalID: 165012475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd1a87504b48a45bd7a5555b551b14
+      internalID: 1772818678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98457060f7b86034aa2ac68311f57ec3
+      internalID: 1854524697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f46ae1d59e2849953366f8c89f6d8
+      internalID: 1887476251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 419.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad4f291a5e38c4bb938ab49c49494c
+      internalID: -1458912289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08a7a612da6764690151e0caffb666
+      internalID: 1923401993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7af0dcdcf388c4ba8283b1aa207dfc
+      internalID: 1603797385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd30e85536181b4dbdace8a01160145
+      internalID: -1769173425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4975d0fcffc2d4bad452eb021958f6
+      internalID: 716678433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4613e21384eb84482c49cb4e4d5d4e
+      internalID: 1645112695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da123cd057c5745829412cd647ecdf
+      internalID: -1724570211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299de9f257d9b54d92f5e519a7d9e63
+      internalID: 700841154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd107996ea4cc2d459b03b559487f710
+      internalID: 882138517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab46a568481d2349a0c64c69608eaac
+      internalID: -1626248210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbbc6bab7cd2e74cbe0a929b1fa03ad
+      internalID: -676497792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef21eb5ee27a740b07239bc966b1e9
+      internalID: -959093891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d748888e962ea4397e87c2e166ade4
+      internalID: 1907941555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3b8fdefda8b14a84f2d787ba5c13b
+      internalID: 2056833960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4f59a031d4204fbc0b4dafcff94ab
+      internalID: 1792797371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ba15dece51fe94d973ada448e103e1
+      internalID: 808606337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd38f416f9b63e478f24bc8894feb01
+      internalID: 559711237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506877935f74f6f4fbd4748f5d5d5abb
+      internalID: 1348919562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed2d9007b11b844b61c8ee16bbbb75
+      internalID: 490693863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276e383ec43054419fead59f8df2b4d
+      internalID: 425430612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ee8f39a6c9cd4fac62f8e3ca311d9
+      internalID: 216277843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3737cdec3d3797498205f7c3abba80e
+      internalID: 2029796486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b9e7ca3366f847aded23777c8ca57
+      internalID: -2018060372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f253ff2541f3a4ead6d46412a246a4
+      internalID: -1108698814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574b418e3391bb94abb43b92c823b4a0
+      internalID: 1334073068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a74ec5b79d5d4cab1c28eaca313cd
+      internalID: 954161788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 387.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023d679de4664c43978edb8d8b6ac6d
+      internalID: 621941316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8619bd9af4cbf43a604da797723731
+      internalID: 205791607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43211e62b13ac4094814ad3f57a70c
+      internalID: -1635622029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651e7757dadf424587f9c8cfdbea96a
+      internalID: 1846719052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedebef26371c43459f25bae37590bdb
+      internalID: 612696093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ef3ce6a6db5d4ea2dab17447af711
+      internalID: 320671651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94814bcf69157e94c8f971c690227020
+      internalID: 508993862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e3f772cd3cad54ea561f880d993989
+      internalID: -750396659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78543a57d4352342afc79db991e8d5b
+      internalID: -782651525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03747b6829372b144958ab5af688ac49
+      internalID: 1075912313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b7aa49b826b474dab413f62f08c4b8
+      internalID: 1608672759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11258bd297c100a4dba8c2cd34d7dc15
+      internalID: -88047978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbd8181e9ee6d459b4facc845acd6e
+      internalID: -1464229908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9c3baef6c1b6469f45280722cd95a
+      internalID: -1993028961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bbd1e56e85c0e4ab006dfdc3e2a0a4
+      internalID: -1308067569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7048b8e474e2a141989b5ac0fe1c682
+      internalID: 2053581391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dbc0e5b47e6c8498669dc777861348
+      internalID: -393505782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a2809aad04774282a5b4e0a8574a4
+      internalID: 1616576342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc26604ea982e42870ff2882df06ea
+      internalID: 1287483519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b8f3e1a6e2294f8f34deafb0fe3ec
+      internalID: -1324025740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_125
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c44a682d3bf7a41af14e2efa035a1b
+      internalID: 691097005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35e6caa58afd24c8cfa57c4e9190e3
+      internalID: 941358149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626393f194034d841bc4db1a2d4f57ce
+      internalID: -534686704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910b4a6ef18bae4d93fc6a071a2008d
+      internalID: -1781497965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_129
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 371.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29728712f49b254a8e2b98e701d3da6
+      internalID: 663223148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef75921364717449f675af063c324a
+      internalID: -1423352967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf0fa8acabbe94e9c6b36cfc41f3a1
+      internalID: 2077362117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c7bb0cd07c424ca8cc8e4253e86c2
+      internalID: 1927438109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8532093cf23c4fa529bd22d87634c
+      internalID: -1144159797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbee4f87f35fe46a7ff31ca99664fe
+      internalID: 716739942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183782a1ebd22844bae8f633a220f80
+      internalID: 1154342628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc95a1551137c44aa4e1680d5d3b59e
+      internalID: -2116676476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7d7438bffa8f5498fe17481941a2ea
+      internalID: -1604355332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74984c1f934024d992118397da6917
+      internalID: -1120152248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9bf7b48dfd6b489169f73f5528d6e
+      internalID: 391833877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baeb9f0756b900459cf383c444ba413
+      internalID: -1625926853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_141
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c04a313b0ed351459e9ae1223717602
+      internalID: 824136627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a683f5a2020c4fa799de29726ad42
+      internalID: 865168925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_143
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b722678a4d2442977c4b7a4c3368c
+      internalID: 285090076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5090866c50f509346a1a76a2bc4c27f7
+      internalID: 608087777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09489a41d05f346abad1f51eda9b8b
+      internalID: 457178191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4dbb74f479e04884c228819b460bd
+      internalID: 1724886574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_147
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d0666d9b93c643993530274222fb7
+      internalID: 1020987079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777796ac47aa7b2458e39b513fe86cea
+      internalID: 730942861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2cc306a056fd4ca4130eb3469595e
+      internalID: -2112577086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe1efaafb70174c8d39b1d8dca7998
+      internalID: -1357506906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c9f26271db1c40a5dc6eefe777f51
+      internalID: 1248521314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a78f8657fe8a418f373d7be8a7183
+      internalID: 1746516922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_153
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 355.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400f15a2abc3ac4499c1d05d44f334e
+      internalID: -235016268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1cbd7583901884495a94a88f37519e
+      internalID: 1024231435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e580d0239be6f64b8333a0950066b4a
+      internalID: 1623357461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157ee7b520ef6740bd8fc1b0e04ee0e
+      internalID: 129164850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4118e2e3c4a040b9d4b5ccaa17926
+      internalID: 2143895406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709799b0067bb2f428cfab058ba3cce4
+      internalID: 1475319905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847aae24d11a0fe4b9e824802bded9c7
+      internalID: 1212480400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98806ec0f78ef6e47b43c131c28fcc43
+      internalID: -436570851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f1d4c4865f4a42b28cc1a07fa5901
+      internalID: 697551070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2957954102db4cb037449ff2f0d65
+      internalID: -1036709446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b4c0e2c9b56a4ea3b367bd4151dfc
+      internalID: 1909937635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da375b8cb522641acb8b48981876cf
+      internalID: -1599404067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_165
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbb86b1a2282c4fb3509ff34598995
+      internalID: 430524311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152924e1fc844904f860a0a73b75372e
+      internalID: 2057880658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783adfb215191e14d93deb337d8b022b
+      internalID: -903339068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756eb2f6f5d15b4f820c6477b7235a4
+      internalID: 895259149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499894400ce9cd24f8496a6625e97556
+      internalID: 93758573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573745fd800d39047ba1602e8fde9d3b
+      internalID: 57841938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce7d12513ed6740b6fc7c492a70624
+      internalID: -364979576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a90adf124c2494f9662c786481d77d
+      internalID: -945386131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96395f319262cc24e95d8c6e617b5e35
+      internalID: -965718980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_174
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3470ada584926498b2452f40d41174
+      internalID: -1511126122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_175
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1808b27fbfb3a6409e1990cbbd989dd
+      internalID: 1327840903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f73b63ec8697f4480b549b00cb1261
+      internalID: -1043117724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_177
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 339.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35037c40426063643837d28c49a06c31
+      internalID: 1511167856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b24c0e06dc22459664ffd02f8e873
+      internalID: 1180894997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6ea5c25f73a84fb8d618ae8d78566
+      internalID: 1164829046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da36d0465f83ad4c9aa447a3c753613
+      internalID: 2119414529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425cc967534204d4195ab2f0d5d91517
+      internalID: -2028284911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76442ce6e66f74b99d5dc96b1d8add
+      internalID: 1964539249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374d5be24bd9be45a76da619107f7b4
+      internalID: -865349037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aeefbee317cbd4bad884d64730eb65
+      internalID: -1228966032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbfe372a6d4ce42a072f53539a0b6c
+      internalID: -827347914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d1ad89cfa8c649b5ca701d7824cc3
+      internalID: 680176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad99416ac6482740813daf417606daa
+      internalID: 1509639622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4202a3af50975b419ccd2a487e6269c
+      internalID: -438327604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e64d2c3dc794f4daad0d9930060eb3
+      internalID: 1808675845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61488df3f7df3c94bb89d4e9e1156b7b
+      internalID: -1044818496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b15a3eb38b124a8ec6a79acb6d3e6
+      internalID: -2054378044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81fe35b1d334b4fa78cc265da93f8c
+      internalID: 387375812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02e7e3b3ce0924e82c822a85fadce5
+      internalID: -221083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bad121c6a33646adf71350a9bcf77
+      internalID: -1353919043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_195
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467cf1c0aa9884143a9116c23760694e
+      internalID: -1986182734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_196
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411dbe18f5d743b4c83ea0dcb4f3f62b
+      internalID: 1393489852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_197
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f8855ac00c7246ae4f6c92ae7725f
+      internalID: -2108819774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e3110b7c3b0544a32705b84e22fc7
+      internalID: -356294168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fcbbf8e1258a34787ae85f33de31ce
+      internalID: 834787189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4c2a0357213343b7657e330504b22
+      internalID: 754754420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_201
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 323.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3923068c15b924fb0dc6618c0478b8
+      internalID: -993491558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd71b2165f9a5b45aba4142e206a406
+      internalID: -589396507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_203
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729d588e7808f4498e9639ede2802d7
+      internalID: -1703788813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134c44ec1cef6047aa4d3b4476bc31c
+      internalID: 1691347431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_205
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233dea11d89c2a4e97f78f33bb87b6d
+      internalID: -1181485344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2183995213701114998ba88d39948a48
+      internalID: -578157091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5784c436b48482246a61106f28d1da88
+      internalID: -1558883386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d2d5e9108e9e4fa41d248e3f33291
+      internalID: 1680838003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_209
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe244cf1eaf7c4fb551181a0736af1
+      internalID: 194819633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ece607b13c63a46b7cec0676e5bfe0
+      internalID: 1747378663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8797913c189f6e45b846fe7e517c40c
+      internalID: 429071855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9faccc91ab6740955a9551ce1f57a
+      internalID: 314538480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_213
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09503638c1be24c83296c3468c0f33
+      internalID: 2117584123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da05df4a804ee419323175dcb6d6ee
+      internalID: 1583226888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_215
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb2bcb89a7eece418bfa701a420c6b2
+      internalID: 738813228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_216
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebd536e9822c9e40a3fff41594cc5d2
+      internalID: -58845048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04481de6340737e4eafc4f66b4f297bd
+      internalID: 520393406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77ec663901bff4f9424e866ab07e9f
+      internalID: -1234065932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a813de6f52bf04d8c1231c469cead2
+      internalID: 1871153292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_220
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1a0ba8a175574e88c8e4feac3d46f
+      internalID: -662055213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95522ddb2b88a45b780b637a6b0844
+      internalID: 524085462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e805a7f54f784da2b65e51b98a26b
+      internalID: -572279743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_223
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e57780d42c28b4d93bd940841e24d8
+      internalID: -1011245919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8370e5d6376b14f83bd082aa625754
+      internalID: 2019482846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_225
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 307.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831a61e1e21fef4aa75d1b8a53b2780
+      internalID: -2145150326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc728f542ddc44645b3b44517af7e29a
+      internalID: -2004200475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_227
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece0406874b2b7489396f11258b2c64
+      internalID: -1286415762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d44211e215e1e4f955cc031d0967aa
+      internalID: 1064276681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_229
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee971f27fb92b44811ece5ff4d3db8
+      internalID: -196582662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeba62dd4ed47746bc617f721b98840
+      internalID: -2114544906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b69d54e8c50e4448a75ca9dc5ab3e7
+      internalID: -404516085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_232
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba82f4ef630f940ba2c895fb6052f0
+      internalID: -1626056193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_233
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082ec0fa3f0b194fa4f4aab2283fcf2
+      internalID: 1951549539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f514e79a363a340b1398398b881fec
+      internalID: 396194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20c258f20df0949816aa703857a4ba
+      internalID: 834107571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_236
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba956e890a6ef44abeb70291cf0397
+      internalID: -1150287257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_237
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249755ebb955a042bf14448a270645e
+      internalID: 147992395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e2ac81f70ac94d88c8d8e2687624e
+      internalID: 572744318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_239
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10584843208cef4187348a458637ac7
+      internalID: -392611784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_240
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45c1f8db5b3ce4aba59a5290425611
+      internalID: 1150147248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_241
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc7871b686ccf4bb48c9044ed8242c
+      internalID: -572316217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187837eceba1c0245aaf698e8a9dac0f
+      internalID: -171437022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_243
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054ade07f1ae3e41ab542b9333f496c
+      internalID: -1779993529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_244
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8827ed6209b9c40a78f63aa396c100
+      internalID: 282941145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_245
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9730c929739a46a21207818352910
+      internalID: 618522105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_246
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c05959359b0924d8d68fe600b7ca6a
+      internalID: 453218870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9975703bdd544db98ca9e89f11b49
+      internalID: -894018986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_248
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecfaa2405300134da08e32ce9b3dd07
+      internalID: -1389919217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Interior-2_249
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 291.875
+        width: 16.125
+        height: 16.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7977c969bfb24387ddee7173e3896
+      internalID: -1710967169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset Interior-2_0: 1543983459
+      Tileset Interior-2_1: -1131801819
+      Tileset Interior-2_10: 628104967
+      Tileset Interior-2_100: 2029796486
+      Tileset Interior-2_101: -2018060372
+      Tileset Interior-2_102: -1108698814
+      Tileset Interior-2_103: 1334073068
+      Tileset Interior-2_104: 954161788
+      Tileset Interior-2_105: 621941316
+      Tileset Interior-2_106: 205791607
+      Tileset Interior-2_107: -1635622029
+      Tileset Interior-2_108: 1846719052
+      Tileset Interior-2_109: 612696093
+      Tileset Interior-2_11: -229106700
+      Tileset Interior-2_110: 320671651
+      Tileset Interior-2_111: 508993862
+      Tileset Interior-2_112: -750396659
+      Tileset Interior-2_113: -782651525
+      Tileset Interior-2_114: 1075912313
+      Tileset Interior-2_115: 1608672759
+      Tileset Interior-2_116: -88047978
+      Tileset Interior-2_117: -1464229908
+      Tileset Interior-2_118: -1993028961
+      Tileset Interior-2_119: -1308067569
+      Tileset Interior-2_12: -1355922196
+      Tileset Interior-2_120: 2053581391
+      Tileset Interior-2_121: -393505782
+      Tileset Interior-2_122: 1616576342
+      Tileset Interior-2_123: 1287483519
+      Tileset Interior-2_124: -1324025740
+      Tileset Interior-2_125: 691097005
+      Tileset Interior-2_126: 941358149
+      Tileset Interior-2_127: -534686704
+      Tileset Interior-2_128: -1781497965
+      Tileset Interior-2_129: 663223148
+      Tileset Interior-2_13: -211419363
+      Tileset Interior-2_130: -1423352967
+      Tileset Interior-2_131: 2077362117
+      Tileset Interior-2_132: 1927438109
+      Tileset Interior-2_133: -1144159797
+      Tileset Interior-2_134: 716739942
+      Tileset Interior-2_135: 1154342628
+      Tileset Interior-2_136: -2116676476
+      Tileset Interior-2_137: -1604355332
+      Tileset Interior-2_138: -1120152248
+      Tileset Interior-2_139: 391833877
+      Tileset Interior-2_14: 180090832
+      Tileset Interior-2_140: -1625926853
+      Tileset Interior-2_141: 824136627
+      Tileset Interior-2_142: 865168925
+      Tileset Interior-2_143: 285090076
+      Tileset Interior-2_144: 608087777
+      Tileset Interior-2_145: 457178191
+      Tileset Interior-2_146: 1724886574
+      Tileset Interior-2_147: 1020987079
+      Tileset Interior-2_148: 730942861
+      Tileset Interior-2_149: -2112577086
+      Tileset Interior-2_15: -1191731780
+      Tileset Interior-2_150: -1357506906
+      Tileset Interior-2_151: 1248521314
+      Tileset Interior-2_152: 1746516922
+      Tileset Interior-2_153: -235016268
+      Tileset Interior-2_154: 1024231435
+      Tileset Interior-2_155: 1623357461
+      Tileset Interior-2_156: 129164850
+      Tileset Interior-2_157: 2143895406
+      Tileset Interior-2_158: 1475319905
+      Tileset Interior-2_159: 1212480400
+      Tileset Interior-2_16: 1651649989
+      Tileset Interior-2_160: -436570851
+      Tileset Interior-2_161: 697551070
+      Tileset Interior-2_162: -1036709446
+      Tileset Interior-2_163: 1909937635
+      Tileset Interior-2_164: -1599404067
+      Tileset Interior-2_165: 430524311
+      Tileset Interior-2_166: 2057880658
+      Tileset Interior-2_167: -903339068
+      Tileset Interior-2_168: 895259149
+      Tileset Interior-2_169: 93758573
+      Tileset Interior-2_17: -990842252
+      Tileset Interior-2_170: 57841938
+      Tileset Interior-2_171: -364979576
+      Tileset Interior-2_172: -945386131
+      Tileset Interior-2_173: -965718980
+      Tileset Interior-2_174: -1511126122
+      Tileset Interior-2_175: 1327840903
+      Tileset Interior-2_176: -1043117724
+      Tileset Interior-2_177: 1511167856
+      Tileset Interior-2_178: 1180894997
+      Tileset Interior-2_179: 1164829046
+      Tileset Interior-2_18: -2064981046
+      Tileset Interior-2_180: 2119414529
+      Tileset Interior-2_181: -2028284911
+      Tileset Interior-2_182: 1964539249
+      Tileset Interior-2_183: -865349037
+      Tileset Interior-2_184: -1228966032
+      Tileset Interior-2_185: -827347914
+      Tileset Interior-2_186: 680176732
+      Tileset Interior-2_187: 1509639622
+      Tileset Interior-2_188: -438327604
+      Tileset Interior-2_189: 1808675845
+      Tileset Interior-2_19: 188002840
+      Tileset Interior-2_190: -1044818496
+      Tileset Interior-2_191: -2054378044
+      Tileset Interior-2_192: 387375812
+      Tileset Interior-2_193: -221083447
+      Tileset Interior-2_194: -1353919043
+      Tileset Interior-2_195: -1986182734
+      Tileset Interior-2_196: 1393489852
+      Tileset Interior-2_197: -2108819774
+      Tileset Interior-2_198: -356294168
+      Tileset Interior-2_199: 834787189
+      Tileset Interior-2_2: 1449242434
+      Tileset Interior-2_20: 888419176
+      Tileset Interior-2_200: 754754420
+      Tileset Interior-2_201: -993491558
+      Tileset Interior-2_202: -589396507
+      Tileset Interior-2_203: -1703788813
+      Tileset Interior-2_204: 1691347431
+      Tileset Interior-2_205: -1181485344
+      Tileset Interior-2_206: -578157091
+      Tileset Interior-2_207: -1558883386
+      Tileset Interior-2_208: 1680838003
+      Tileset Interior-2_209: 194819633
+      Tileset Interior-2_21: -1898757388
+      Tileset Interior-2_210: 1747378663
+      Tileset Interior-2_211: 429071855
+      Tileset Interior-2_212: 314538480
+      Tileset Interior-2_213: 2117584123
+      Tileset Interior-2_214: 1583226888
+      Tileset Interior-2_215: 738813228
+      Tileset Interior-2_216: -58845048
+      Tileset Interior-2_217: 520393406
+      Tileset Interior-2_218: -1234065932
+      Tileset Interior-2_219: 1871153292
+      Tileset Interior-2_22: 1158123088
+      Tileset Interior-2_220: -662055213
+      Tileset Interior-2_221: 524085462
+      Tileset Interior-2_222: -572279743
+      Tileset Interior-2_223: -1011245919
+      Tileset Interior-2_224: 2019482846
+      Tileset Interior-2_225: -2145150326
+      Tileset Interior-2_226: -2004200475
+      Tileset Interior-2_227: -1286415762
+      Tileset Interior-2_228: 1064276681
+      Tileset Interior-2_229: -196582662
+      Tileset Interior-2_23: 862483088
+      Tileset Interior-2_230: -2114544906
+      Tileset Interior-2_231: -404516085
+      Tileset Interior-2_232: -1626056193
+      Tileset Interior-2_233: 1951549539
+      Tileset Interior-2_234: 396194306
+      Tileset Interior-2_235: 834107571
+      Tileset Interior-2_236: -1150287257
+      Tileset Interior-2_237: 147992395
+      Tileset Interior-2_238: 572744318
+      Tileset Interior-2_239: -392611784
+      Tileset Interior-2_24: -1845376009
+      Tileset Interior-2_240: 1150147248
+      Tileset Interior-2_241: -572316217
+      Tileset Interior-2_242: -171437022
+      Tileset Interior-2_243: -1779993529
+      Tileset Interior-2_244: 282941145
+      Tileset Interior-2_245: 618522105
+      Tileset Interior-2_246: 453218870
+      Tileset Interior-2_247: -894018986
+      Tileset Interior-2_248: -1389919217
+      Tileset Interior-2_249: -1710967169
+      Tileset Interior-2_25: 131712191
+      Tileset Interior-2_26: 1594299982
+      Tileset Interior-2_27: -1867067206
+      Tileset Interior-2_28: 6649086
+      Tileset Interior-2_29: -611443596
+      Tileset Interior-2_3: -1664716242
+      Tileset Interior-2_30: -1832545410
+      Tileset Interior-2_31: 2126868619
+      Tileset Interior-2_32: 1326484523
+      Tileset Interior-2_33: -1556603386
+      Tileset Interior-2_34: 1352811986
+      Tileset Interior-2_35: 349339042
+      Tileset Interior-2_36: 590682601
+      Tileset Interior-2_37: 318758972
+      Tileset Interior-2_38: 831823761
+      Tileset Interior-2_39: -781935588
+      Tileset Interior-2_4: -764010563
+      Tileset Interior-2_40: 1485355817
+      Tileset Interior-2_41: -1793606137
+      Tileset Interior-2_42: -452527376
+      Tileset Interior-2_43: 965988613
+      Tileset Interior-2_44: 330607025
+      Tileset Interior-2_45: 1056251876
+      Tileset Interior-2_46: 776544523
+      Tileset Interior-2_47: 1328892365
+      Tileset Interior-2_48: -57833500
+      Tileset Interior-2_49: -1674359300
+      Tileset Interior-2_5: -718442782
+      Tileset Interior-2_50: -2100687513
+      Tileset Interior-2_51: 1504619592
+      Tileset Interior-2_52: -984293071
+      Tileset Interior-2_53: 1522979856
+      Tileset Interior-2_54: 385623393
+      Tileset Interior-2_55: 483230364
+      Tileset Interior-2_56: 1674243877
+      Tileset Interior-2_57: -1790684991
+      Tileset Interior-2_58: 1533942534
+      Tileset Interior-2_59: -380720441
+      Tileset Interior-2_6: -1049062317
+      Tileset Interior-2_60: 619341776
+      Tileset Interior-2_61: 1617477630
+      Tileset Interior-2_62: 1937663103
+      Tileset Interior-2_63: -517494374
+      Tileset Interior-2_64: -159046776
+      Tileset Interior-2_65: -139668442
+      Tileset Interior-2_66: 2119063573
+      Tileset Interior-2_67: -1996767069
+      Tileset Interior-2_68: -1894513817
+      Tileset Interior-2_69: 1132910442
+      Tileset Interior-2_7: -1257352176
+      Tileset Interior-2_70: 1526990826
+      Tileset Interior-2_71: 929287573
+      Tileset Interior-2_72: 1164021588
+      Tileset Interior-2_73: 1707501972
+      Tileset Interior-2_74: -2025792791
+      Tileset Interior-2_75: 165012475
+      Tileset Interior-2_76: 1772818678
+      Tileset Interior-2_77: 1854524697
+      Tileset Interior-2_78: 1887476251
+      Tileset Interior-2_79: -1458912289
+      Tileset Interior-2_8: 690132590
+      Tileset Interior-2_80: 1923401993
+      Tileset Interior-2_81: 1603797385
+      Tileset Interior-2_82: -1769173425
+      Tileset Interior-2_83: 716678433
+      Tileset Interior-2_84: 1645112695
+      Tileset Interior-2_85: -1724570211
+      Tileset Interior-2_86: 700841154
+      Tileset Interior-2_87: 882138517
+      Tileset Interior-2_88: -1626248210
+      Tileset Interior-2_89: -676497792
+      Tileset Interior-2_9: 570265640
+      Tileset Interior-2_90: -959093891
+      Tileset Interior-2_91: 1907941555
+      Tileset Interior-2_92: 2056833960
+      Tileset Interior-2_93: 1792797371
+      Tileset Interior-2_94: 808606337
+      Tileset Interior-2_95: 559711237
+      Tileset Interior-2_96: 1348919562
+      Tileset Interior-2_97: 490693863
+      Tileset Interior-2_98: 425430612
+      Tileset Interior-2_99: 216277843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
