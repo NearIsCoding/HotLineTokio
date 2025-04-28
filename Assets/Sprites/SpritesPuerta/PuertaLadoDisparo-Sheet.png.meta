@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: bccac82037a1dc94ba9adb0f17a28b76
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuertaLadoDisparo-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 45
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede454ca3e88cab49a62dd35b15abcc1
+      internalID: -1219052621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuertaLadoDisparo-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 0
+        width: 41
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b8e6a005e0d04aa58c14ca1b55ea7
+      internalID: 659346474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuertaLadoDisparo-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 0
+        width: 79
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62445208f5be86f4baeded1da37c3817
+      internalID: 852816868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuertaLadoDisparo-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 0
+        width: 92
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc03c3d332aa74ba95a89b4a1a9c3e
+      internalID: 824960399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuertaLadoDisparo-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 0
+        width: 27
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f313f2c73cb34b8e3395d2723d3cf
+      internalID: -1229750653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PuertaLadoDisparo-Sheet_0: -1219052621
+      PuertaLadoDisparo-Sheet_1: 659346474
+      PuertaLadoDisparo-Sheet_10: 1404895272
+      PuertaLadoDisparo-Sheet_11: -303147176
+      PuertaLadoDisparo-Sheet_12: -699674902
+      PuertaLadoDisparo-Sheet_13: -991401812
+      PuertaLadoDisparo-Sheet_14: -500384460
+      PuertaLadoDisparo-Sheet_15: 2129984846
+      PuertaLadoDisparo-Sheet_16: -1164755727
+      PuertaLadoDisparo-Sheet_17: 626317626
+      PuertaLadoDisparo-Sheet_18: 719373435
+      PuertaLadoDisparo-Sheet_19: 1265912059
+      PuertaLadoDisparo-Sheet_2: 852816868
+      PuertaLadoDisparo-Sheet_20: 1217990873
+      PuertaLadoDisparo-Sheet_21: 812081821
+      PuertaLadoDisparo-Sheet_22: 1929947936
+      PuertaLadoDisparo-Sheet_3: -7917212
+      PuertaLadoDisparo-Sheet_4: 824960399
+      PuertaLadoDisparo-Sheet_5: -1229750653
+      PuertaLadoDisparo-Sheet_6: 220503199
+      PuertaLadoDisparo-Sheet_7: -1381870643
+      PuertaLadoDisparo-Sheet_8: -1436477143
+      PuertaLadoDisparo-Sheet_9: 61775186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
