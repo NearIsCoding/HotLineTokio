@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 6ca377c334e34d04dbceb32c6d4b99dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 173
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c34710bed185e41a2ef70368e6b0a7
+      internalID: 1615021287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 19
+        width: 175
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1063d2ee71334788e8b36f7867b61
+      internalID: -1490227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 19
+        width: 164
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1da12957605e04f99e44a035bf96e9
+      internalID: 739944002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 19
+        width: 154
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f164507aa1ce46a210852677c587b
+      internalID: -1226844189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 19
+        width: 165
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348616287d3be78408caff307a8b4c73
+      internalID: -482771305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 8
+        width: 164
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b2fe6bf107e34a96a3902123cb153
+      internalID: -1889845775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 8
+        width: 164
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9763f406b42024287158b4af48a072
+      internalID: 448463906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 8
+        width: 162
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe916702847eb343accfc279765b0ba
+      internalID: -155240791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 8
+        width: 183
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6bce960be94e4c994adf9bcc06366
+      internalID: -1739274424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 8
+        width: 213
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68519810bdbc8c14d8c42c70f4dc91a0
+      internalID: 1328815907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 8
+        width: 194
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a63e840b2a814bb4d19422450ef97
+      internalID: 808630852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 19
+        width: 172
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049734c75dd2f74f93ff02fb97c69ba
+      internalID: 1300786855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 19
+        width: 176
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2916c50d4e16c244a22805112ce6f38
+      internalID: -777285903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 19
+        width: 172
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fb74aa33f512479e98009631abd50
+      internalID: 2005469617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 19
+        width: 164
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfc3f7c6617fb45a121e4e2d6ac36e
+      internalID: 639948572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 19
+        width: 173
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77501d29297e47746868e9bb47cc2d25
+      internalID: 158778771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villano2AtaquDelante-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 19
+        width: 175
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f64fa890e882409cb606a40d213e3
+      internalID: -1574557676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Villano2AtaquDelante-Sheet_0: 1615021287
+      Villano2AtaquDelante-Sheet_1: -1490227337
+      Villano2AtaquDelante-Sheet_10: 808630852
+      Villano2AtaquDelante-Sheet_11: 1300786855
+      Villano2AtaquDelante-Sheet_12: -777285903
+      Villano2AtaquDelante-Sheet_13: 2005469617
+      Villano2AtaquDelante-Sheet_14: 639948572
+      Villano2AtaquDelante-Sheet_15: 158778771
+      Villano2AtaquDelante-Sheet_16: -1574557676
+      Villano2AtaquDelante-Sheet_2: 739944002
+      Villano2AtaquDelante-Sheet_3: -1226844189
+      Villano2AtaquDelante-Sheet_4: -482771305
+      Villano2AtaquDelante-Sheet_5: -1889845775
+      Villano2AtaquDelante-Sheet_6: 448463906
+      Villano2AtaquDelante-Sheet_7: -155240791
+      Villano2AtaquDelante-Sheet_8: -1739274424
+      Villano2AtaquDelante-Sheet_9: 1328815907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

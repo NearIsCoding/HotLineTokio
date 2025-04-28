@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 184a062f2b3d3184d9066054b6d995d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 316
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 978
+        width: 263
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab734f6681bc249bcaf215b06fee12
+      internalID: -1493938085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 978
+        width: 262
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb95a58050b3e244858d2776a37fb5a
+      internalID: -1452999803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 978
+        width: 214
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ed76604b8d7e438a8f98738f0bf43
+      internalID: 2041937973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 978
+        width: 202
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c14c7d40b199c4a9e6dfe47c5eba71
+      internalID: -1748064545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 978
+        width: 263
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6119efa121a1dc14192c03bd10a7a5f3
+      internalID: 1217768232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 978
+        width: 263
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76f146e312a1c4ab3b1c0f731cda2a
+      internalID: 480129231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 978
+        width: 262
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10f985b0f86ea4428160af734970019
+      internalID: -1880188414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 978
+        width: 242
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e18b679c456e544840f103ab4df15d
+      internalID: -1887207231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 978
+        width: 223
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31006008c6b2f49993effb5cf3e7d5
+      internalID: -1187075935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 978
+        width: 212
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1312006fdc3ca4eb052e0b526c4f03
+      internalID: -119117294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 978
+        width: 212
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891de4d5b98bea41bbfc7b145978b1b
+      internalID: 1339011177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 978
+        width: 244
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6ee5f15a9e5a4192c94b4051664a7
+      internalID: 1709189285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 669
+        width: 263
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b59f42571a81445a275c16ac902711
+      internalID: -560431645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 669
+        width: 262
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67f51f59c16454ca63bb7009db161c
+      internalID: 694444955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 658
+        width: 223
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052d4e94bc16ba41ad8d96d1cf30c5d
+      internalID: 343899978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 658
+        width: 214
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934f62f03a9bf44daa8f7a8fa29d7bd
+      internalID: -995520563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 669
+        width: 272
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a757ea67f26def4abfa57e5edcca958
+      internalID: 1324654640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 669
+        width: 272
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28d089c8f23db49809208408c3847e
+      internalID: -13615641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 669
+        width: 274
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3ddc09f6a71a4a87cf5ef3e9b78bd
+      internalID: 1207812379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 669
+        width: 222
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e343671577d97c42b259f3bf558d26d
+      internalID: -1045705834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 669
+        width: 212
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f3c963c033484eafa337bfdb405b2
+      internalID: -1810528513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 669
+        width: 214
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667d1ede5da87b418e1c46df64f672b
+      internalID: 354250713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 669
+        width: 212
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e0bd912e8d95449f13b4d508bef8a
+      internalID: 1635019020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 669
+        width: 263
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ba3d04787fd64fb4eb4478610c3b8
+      internalID: -89075639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53e3369f0d6ee41af8661da494f01c
+      internalID: -770644617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 328
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a8bbe8cc6c114489b81f956674752
+      internalID: -382265422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348afe09c487e1e45b799a9dfc46697d
+      internalID: -835399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318a0f8fd8a68844b2de1349d09d158
+      internalID: 663241431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 328
+        width: 223
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83934030672d944418cab28c3576a4d3
+      internalID: -1477043272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 328
+        width: 211
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50239b0293a7844a5824c67b01a15c
+      internalID: 1431516801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 417
+        width: 82
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d10097ebb58084fb158b59a2ec8f97
+      internalID: 1444155395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 328
+        width: 154
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a63fcc652f294e8bdf14a57d35e72
+      internalID: -221505202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 328
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c16089a6073744ca69b38fa11074ed
+      internalID: -261993367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf59443735ed0174f9590937247e540f
+      internalID: 1411997662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1acde9f60e8d0b46a4ebc81b93dd15c
+      internalID: 1937469136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 328
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fceaa870525d4f97a142ff62362c1
+      internalID: -156853346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 328
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e8551a3c6a3645b8087b12cc01c90
+      internalID: 383654033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91639ef1301c09948b94560b8630826f
+      internalID: 1741344854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 9
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d6d616c88f3949bed4a6e9efdfeff
+      internalID: -976932925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f54a0d09dca8545bf3dce98baf5e59
+      internalID: -72298067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995477a92da90814788730f0721ddf1a
+      internalID: 694524315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 9
+        width: 223
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae910325fc9b18449d178fdad8b8a74
+      internalID: -622685655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 88
+        width: 83
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca636d602b8c44096f493c8d7c13a5
+      internalID: 795215977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 9
+        width: 216
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb109f7f45b8ab43a5e79f7bed5b361
+      internalID: 1565940497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 9
+        width: 152
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab69b628b9a244b87ce34f1952e72e
+      internalID: 882876813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 9
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c650088e389f5304691004a4df2d6886
+      internalID: 1462102748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a9ecce32378c4a982488ce259cc2f
+      internalID: 1327727033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1544db40007f1c42a7a5282c78942f7
+      internalID: 1105138497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 9
+        width: 142
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3ec9c15121b84690322805ba31715
+      internalID: 1787912793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuki-Attack-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 9
+        width: 143
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d6247075431c44185d1c52461ba92f
+      internalID: -1681070143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Yuki-Attack-Sheet_0: -1493938085
+      Yuki-Attack-Sheet_1: -1452999803
+      Yuki-Attack-Sheet_10: 1339011177
+      Yuki-Attack-Sheet_11: 1709189285
+      Yuki-Attack-Sheet_12: -560431645
+      Yuki-Attack-Sheet_13: 694444955
+      Yuki-Attack-Sheet_14: 343899978
+      Yuki-Attack-Sheet_15: -995520563
+      Yuki-Attack-Sheet_16: 1324654640
+      Yuki-Attack-Sheet_17: -13615641
+      Yuki-Attack-Sheet_18: 1207812379
+      Yuki-Attack-Sheet_19: -1045705834
+      Yuki-Attack-Sheet_2: 2041937973
+      Yuki-Attack-Sheet_20: -1810528513
+      Yuki-Attack-Sheet_21: 354250713
+      Yuki-Attack-Sheet_22: 1635019020
+      Yuki-Attack-Sheet_23: -89075639
+      Yuki-Attack-Sheet_24: -770644617
+      Yuki-Attack-Sheet_25: -382265422
+      Yuki-Attack-Sheet_26: -835399395
+      Yuki-Attack-Sheet_27: 663241431
+      Yuki-Attack-Sheet_28: -1477043272
+      Yuki-Attack-Sheet_29: 1431516801
+      Yuki-Attack-Sheet_3: -1748064545
+      Yuki-Attack-Sheet_30: 1444155395
+      Yuki-Attack-Sheet_31: -221505202
+      Yuki-Attack-Sheet_32: -261993367
+      Yuki-Attack-Sheet_33: 1411997662
+      Yuki-Attack-Sheet_34: 1937469136
+      Yuki-Attack-Sheet_35: -156853346
+      Yuki-Attack-Sheet_36: 383654033
+      Yuki-Attack-Sheet_37: 1741344854
+      Yuki-Attack-Sheet_38: -976932925
+      Yuki-Attack-Sheet_39: -72298067
+      Yuki-Attack-Sheet_4: 1217768232
+      Yuki-Attack-Sheet_40: 694524315
+      Yuki-Attack-Sheet_41: -622685655
+      Yuki-Attack-Sheet_42: 795215977
+      Yuki-Attack-Sheet_43: 1565940497
+      Yuki-Attack-Sheet_44: 882876813
+      Yuki-Attack-Sheet_45: 1462102748
+      Yuki-Attack-Sheet_46: 1327727033
+      Yuki-Attack-Sheet_47: 1105138497
+      Yuki-Attack-Sheet_48: 1787912793
+      Yuki-Attack-Sheet_49: -1681070143
+      Yuki-Attack-Sheet_5: 480129231
+      Yuki-Attack-Sheet_6: -1880188414
+      Yuki-Attack-Sheet_7: -1887207231
+      Yuki-Attack-Sheet_8: -1187075935
+      Yuki-Attack-Sheet_9: -119117294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

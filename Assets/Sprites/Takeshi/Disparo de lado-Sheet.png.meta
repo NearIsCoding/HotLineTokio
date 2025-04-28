@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 316
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2d90e68b44c47b966bafe109ece4
+      internalID: -1737794776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef86389834f95e4aa2516662b2dc06f
+      internalID: 2086741645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 18
+        width: 142
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de872e4e9a3f8074dab5443cd0d04d6a
+      internalID: -390461660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 18
+        width: 152
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd41c3fd45abf44a8876782481c7a58
+      internalID: -861647169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 18
+        width: 173
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb38479beee9242b2b0f95cc6ca5e5
+      internalID: -776119945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 18
+        width: 152
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295dc10bc78ef3498e39697cb434cfa
+      internalID: -1019815917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 18
+        width: 142
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288f7e2faaaab345b824c711125561c
+      internalID: -1747510929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0aeabe7bf38ef44b78c7e7260bbea2
+      internalID: -1965259322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disparo de lado-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 18
+        width: 133
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42211e05144b3441b701b2800ad4546
+      internalID: 294109767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +308,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Disparo de lado-Sheet_0: -1737794776
+      Disparo de lado-Sheet_1: 2086741645
+      Disparo de lado-Sheet_2: -390461660
+      Disparo de lado-Sheet_3: -861647169
+      Disparo de lado-Sheet_4: -776119945
+      Disparo de lado-Sheet_5: -1019815917
+      Disparo de lado-Sheet_6: -1747510929
+      Disparo de lado-Sheet_7: -1965259322
+      Disparo de lado-Sheet_8: 294109767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

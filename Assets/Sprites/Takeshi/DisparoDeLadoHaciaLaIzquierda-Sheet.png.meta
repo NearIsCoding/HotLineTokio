@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 316
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 18
+        width: 133
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629df596365da04b9de1e6711536aa4
+      internalID: 1809594523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ebc376918c9f49b5685d223622fce
+      internalID: -82967382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 18
+        width: 142
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebeddcd0c7209b49a4217a24ae93ea9
+      internalID: 1750719278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 18
+        width: 152
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29460be0b7c5f845b8ac51738f4037f
+      internalID: 2072980307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 18
+        width: 173
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665de06940d85894a95105f15ec8e0ba
+      internalID: -1095499843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 18
+        width: 152
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3154582832c88ee46a5387a57826b808
+      internalID: -500399619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 18
+        width: 142
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af9c0a43dda6647b36c059b468a113
+      internalID: -2143082938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec156d9712b1936408f1e07c178bb5b7
+      internalID: -922520674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoDeLadoHaciaLaIzquierda-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 18
+        width: 132
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f5f40374771f419ac40880ef3b4d4
+      internalID: -438997000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +308,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisparoDeLadoHaciaLaIzquierda-Sheet_0: 1809594523
+      DisparoDeLadoHaciaLaIzquierda-Sheet_1: -82967382
+      DisparoDeLadoHaciaLaIzquierda-Sheet_2: 1750719278
+      DisparoDeLadoHaciaLaIzquierda-Sheet_3: 2072980307
+      DisparoDeLadoHaciaLaIzquierda-Sheet_4: -1095499843
+      DisparoDeLadoHaciaLaIzquierda-Sheet_5: -500399619
+      DisparoDeLadoHaciaLaIzquierda-Sheet_6: -2143082938
+      DisparoDeLadoHaciaLaIzquierda-Sheet_7: -922520674
+      DisparoDeLadoHaciaLaIzquierda-Sheet_8: -438997000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

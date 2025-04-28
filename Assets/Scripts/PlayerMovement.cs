@@ -52,7 +52,6 @@ public class PlayerMovement : MonoBehaviour
             MoveCharacter();
         }
        
-        print(isWalking);
 
         if (vida.vidaAct <= 0)
         {

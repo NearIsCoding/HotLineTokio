@@ -31,12 +31,6 @@ public class Coin : MonoBehaviour
                 Points.Instance.SumPuntos(1);
             }
 
-            LifeManager2 barraVida = colision.GetComponent<LifeManager2>();
-            if (barraVida != null)
-            {
-                barraVida.vidaAct += 0.5f;
-                barraVida.vidaAct = Mathf.Min(barraVida.vidaAct, barraVida.vidaMax);
-            }
 
             MonedaPuntaje Moneda_Puntaje = colision.GetComponent<MonedaPuntaje>();
 
