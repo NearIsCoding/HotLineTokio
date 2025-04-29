@@ -225,7 +225,7 @@ public class DialogueCollider : MonoBehaviour
         dialoguePanel2.SetActive(false);
         Cinematicas.SetBool("Cinematica3", true);
 
-        yield return new WaitForSeconds(4);
+        yield return new WaitForSeconds(3);
 
         
         NextDialogueLine();
@@ -234,11 +234,12 @@ public class DialogueCollider : MonoBehaviour
 
     IEnumerator CinematicaAnim4()
     {
+        Cinematicas.SetBool("Cinematica4", true);
         dialoguePanel1.SetActive(false);
         dialoguePanel2.SetActive(false);
-        Cinematicas.SetBool("Cinematica4", true);
+        
 
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(1);
         
 
 

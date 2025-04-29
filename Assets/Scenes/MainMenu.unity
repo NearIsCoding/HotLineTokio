@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -418,11 +419,23 @@ PrefabInstance:
       value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_fontSizeBase
       value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -6578567196109000404, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -657,7 +670,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5687642586779407853, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.0000052452
+      value: -148
       objectReference: {fileID: 0}
     - target: {fileID: 5687642586779407853, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -677,12 +690,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_text
-      value: Juego Nuevo
+      value: "Configuraci\xF3n"
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_fontSize
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_fontSizeMax
       value: 65.17
@@ -692,11 +709,19 @@ PrefabInstance:
       value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -6578567196109000404, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_charWidthMaxAdj
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -886,7 +911,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5687642586779407853, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -152
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5687642586779407853, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -906,18 +931,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_text
-      value: "Configuraci\xF3n"
+      value: Nuevo Juego
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_fontSize
       value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_fontSizeBase
       value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -6578567196109000404, guid: f48203fb7bcac4a429f73dc219d0965c, type: 2}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
       propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300266162912741400, guid: c6b8396759f20db4db76b0a366beebcb, type: 3}
+      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
