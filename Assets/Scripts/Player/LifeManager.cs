@@ -5,7 +5,7 @@ public class LifeManager : MonoBehaviour
 {
     [Header("Configuración de vida")]
     public Image barraDeVida;
-    public float vidaMax = 100f;
+    public float vidaMax = 3f;
     public float vidaAct;
 
     void Start()
