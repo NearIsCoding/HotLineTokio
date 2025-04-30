@@ -7,6 +7,8 @@ public class ConfButtonManager : MonoBehaviour
 {
     public void Back()
     {
-        SceneManager.LoadScene(0);
+        // Descargar la escena de Config
+        SceneManager.UnloadSceneAsync("Config");
+        Time.timeScale = 1.0f;
     }
 }
