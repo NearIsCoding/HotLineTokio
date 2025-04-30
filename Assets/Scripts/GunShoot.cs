@@ -20,7 +20,7 @@ public class GunShoot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -28,6 +28,13 @@ public class GunShoot : MonoBehaviour
     {
         FollowMouse();
         Shoot();
+
+
+
+
+
+
+
     }
 
     private void FollowMouse()
@@ -44,7 +51,7 @@ public class GunShoot : MonoBehaviour
     private void Shoot()
     {
         if (Input.GetMouseButtonDown(0))
-
+            
 
         {
             Camara.SetTrigger("CamHit");
@@ -75,6 +82,12 @@ public class GunShoot : MonoBehaviour
                 var endPosition = gunPoint.position + transform.right * weaponRange;
                 trailScript.SetTargetPosition(endPosition);
             }
+
+
         }
     }
+
+
+
+
 }

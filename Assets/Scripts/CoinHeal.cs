@@ -12,7 +12,7 @@ public class CoinHeal : MonoBehaviour
     public ScoreManager monedaPuntajeUI;
 
     private Collider2D colisionador;
-    // Al colisionar con tag player, se aï¿½adira 1 a puntaje
+    // Al colisionar con tag player, se añadira 1 a puntaje
 
     private void Start()
     {
@@ -31,7 +31,7 @@ public class CoinHeal : MonoBehaviour
                 Points.Instance.SumPuntos(1);
             }
 
-            LifeManager barraVida = colision.GetComponent<LifeManager>();
+            LifeManager2 barraVida = colision.GetComponent<LifeManager2>();
             if (barraVida != null)
             {
                 barraVida.vidaAct += 1f;

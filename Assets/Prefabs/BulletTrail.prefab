@@ -94,8 +94,6 @@ GameObject:
   - component: {fileID: 4498807926760666679}
   - component: {fileID: 4012744167281630877}
   - component: {fileID: 5167631123406599316}
-  - component: {fileID: 233172872541058227}
-  - component: {fileID: 4475618013214474917}
   m_Layer: 0
   m_Name: BulletTrail
   m_TagString: Untagged
@@ -241,11 +239,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 7418217144027100367}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27469e5718936d244be4ddfd2c40659a, type: 3}
+  m_Script: {fileID: 11500000, guid: c8c26f85c1e32234abbe7da76382677f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 1
-  cameraAnimator: {fileID: 0}
+  "da\xF1o": 1
+  player: {fileID: 0}
+  Camara: {fileID: 0}
 --- !u!114 &5167631123406599316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -259,65 +258,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
---- !u!58 &233172872541058227
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7418217144027100367}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.00095820427, y: -0.00002720952}
-  serializedVersion: 2
-  m_Radius: 0.33853483
---- !u!50 &4475618013214474917
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7418217144027100367}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0

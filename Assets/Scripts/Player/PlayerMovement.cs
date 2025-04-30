@@ -15,13 +15,13 @@ public class PlayerMovement : MonoBehaviour
 
     [HideInInspector] public bool canMove = true;
 
-    public LifeManager vida;
+    public LifeManager2 vida;
     public event EventHandler Muerte;
     public Animator animator;
 
     public Animator Camara;
 
-    public bool isWalking = false;
+    bool isWalking = false;
     Rigidbody2D rigidbody;
     [SerializeField] private float movementSpeed = 5f;
 
@@ -46,12 +46,12 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+       
         if (canMove)
         {
             MoveCharacter();
         }
-
+       
 
         if (vida.vidaAct <= 0)
         {
@@ -67,7 +67,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-
+ 
 
 
 
@@ -79,7 +79,7 @@ public class PlayerMovement : MonoBehaviour
         if (rigidbody.velocity.x != 0 || rigidbody.velocity.y != 0)
         {
             animator.SetBool("isWalking", true);
-            isWalking = true;
+            isWalking = true; 
         }
         else
         {
@@ -100,8 +100,8 @@ public class PlayerMovement : MonoBehaviour
     private IEnumerator Respawn()
     {
 
-        yield return new WaitForSeconds(0.5f); // Pequeï¿½o delay para reiniciar correctamente
-
+        yield return new WaitForSeconds(0.5f); // Pequeño delay para reiniciar correctamente
+     
 
 
         if (hasCheckpoint && checkPoint != null)
@@ -112,7 +112,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            transform.position = initialPosition; // Respawn en la posiciï¿½n inicial si no hay checkpoint
+            transform.position = initialPosition; // Respawn en la posición inicial si no hay checkpoint
         }
         vida.vidaAct = 3; // Asegura que el jugador reaparece con la vida llena
     }
